@@ -1,4 +1,4 @@
-# Detecting-Parkinson's-Disease
+# Detecting Parkinson's Disease
 
 **Objective**: To make a model that will accurately detect the presence of Parkinson's Disease in an individual.
 
