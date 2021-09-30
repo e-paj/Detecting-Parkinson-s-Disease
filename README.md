@@ -6,6 +6,6 @@
 
 **Audience**: This is intended for anyone who is interested in learning more about this disease.
 
-**Date**: September 27 - ?
+**Date**: September 27 - October 01
 
 **Dataset**: Kaggle: https://www.kaggle.com/vikasukani/parkinsons-disease-data-set/version/1
