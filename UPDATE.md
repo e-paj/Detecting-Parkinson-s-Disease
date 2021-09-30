@@ -1,5 +1,9 @@
 # What I have done so far:
 
+September 30, 2021:
+- Started writing the report.
+- Tomorrow start on the data analysis part!
+
 September 29, 2021:
 - I built a predictive system where I took an input data and used my model to check if the person has the disease or not.
 - In order to this, I have to change the input_data, which I took from the original dataset, into a numpy array.
