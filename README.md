@@ -11,4 +11,4 @@
 **Dataset**: Kaggle: https://www.kaggle.com/vikasukani/parkinsons-disease-data-set/version/1
 
 **References**:
-- 
+- Siddhardhan. (2021, May 07). *Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project* [Video]. Youtube. https://www.youtube.com/watch?v=HbyN_ey-JVc
