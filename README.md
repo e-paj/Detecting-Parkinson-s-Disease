@@ -12,3 +12,4 @@
 
 **References**:
 - Siddhardhan. (2021, May 07). *Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project* [Video]. Youtube. https://www.youtube.com/watch?v=HbyN_ey-JVc
+- Gandhi, R. (2018, June 07). Support Vector Machine — Introduction to Machine Learning Algorithms. *Towards Data Science*. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
