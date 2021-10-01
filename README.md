@@ -11,5 +11,6 @@
 **Dataset**: Kaggle: https://www.kaggle.com/vikasukani/parkinsons-disease-data-set/version/1
 
 **References**:
-- Siddhardhan. (2021, May 07). *Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project* [Video]. Youtube. https://www.youtube.com/watch?v=HbyN_ey-JVc
 - Gandhi, R. (2018, June 07). Support Vector Machine — Introduction to Machine Learning Algorithms. *Towards Data Science*. https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47
+- Kinsley, H. (2015, January 02). Linear SVC Machine learning SVM example with Python. *PythonProgramming*. https://pythonprogramming.net/linear-svc-example-scikit-learn-svm-python/
+- Siddhardhan. (2021, May 07). *Project 14. Parkinson's Disease Detection using Machine Learning - Python | Machine Learning Project* [Video]. Youtube. https://www.youtube.com/watch?v=HbyN_ey-JVc
